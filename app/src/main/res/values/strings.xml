@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simplekeyboard</string>
+    <string name="subtype_simple">Simple Keyboard</string>
+    <string name="label_simple">Simple Keyboard</string>
+</resources>
